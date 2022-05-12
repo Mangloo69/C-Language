@@ -1,7 +1,7 @@
 /*
 1) take a string with multiple words and display how many spaces are present in the string
 2) count the numbeer of words present in a string
-3) take a three word string and display its middle word and count number of letters present int he middle work
+3) take a three word string and display its middle word and count number of letters present int he middle word
 4) take a string and reverse its each word
                     ABC PK LTM N
                     CBA KP MTL N
